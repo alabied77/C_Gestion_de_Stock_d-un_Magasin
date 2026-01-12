@@ -7,7 +7,7 @@ It allows users to register products, track quantities, calculate stock value, a
 
 1-Compile the program:
 
-gcc stock_management.c -o stock
+gcc application_gestion_stock.C -o stock
 
 
 2-Run the executable:
