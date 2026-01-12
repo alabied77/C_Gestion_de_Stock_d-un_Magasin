@@ -3,16 +3,9 @@
 A simple console-based stock management program written in C.
 It allows users to register products, track quantities, calculate stock value, and display alerts.
 
-▶️ How to Run
-
-1-Compile the program:
-
-gcc application_gestion_stock.C -o stock
-
-
-2-Run the executable:
-
-./stock
+How to Run
+Make sure you have C compiller installed.
+Run the project : application_gestion_stock.c
 
 🛠️ Features
 
